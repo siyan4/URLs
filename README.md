@@ -1,9 +1,9 @@
 # URLs
 URLs
 
-https://www.linux-kvm.org/page/Main_Page  
+https://libvirt.org/  
 https://www.qemu.org/  
-https://libvirt.org/index.html  
+https://www.proxmox.com/  
 https://virt-manager.org/  
+https://www.linux-kvm.org/  
 https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/  
-https://www.proxmox.com/en/  
